@@ -1,0 +1,11 @@
+p {
+    font-size:14px;
+    color:#000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+mark.green {
+    color:#00a028;
+    background: none;
+}
